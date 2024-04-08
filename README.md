@@ -1,5 +1,4 @@
 # Hi, I'm Nafis Neehal 👋
----
 
 ## 💫About Me
 I am an accomplished Ph.D. candidate in the Computer Science Department at Rensselaer Polytechnic Institute with over seven years of experience in Applied Machine Learning, Deep Learning, and Data Science. I am proficient in Python and R, and my technical skillset extends to major ML/DL libraries like Pytorch, Keras, Tensorflow, HuggingFace, as well as cloud platforms like AWS, and tools/languages including SQL, PySpark for Big Data, and Tableau among others. My career is marked by a deep engagement in developing and applying advanced computational models to real-world problems, particularly in healthcare. My research interests lie at the intersection of machine learning, causal inference, Large Language Models (LLMs), generative AI, and healthcare, focusing on optimizing processes and outcomes through innovative data-driven approaches. Beyond my research, I am also dedicated to education, having taught foundational computer science courses, authored machine learning books, and showcased my well-rounded expertise in technology and data analysis.
