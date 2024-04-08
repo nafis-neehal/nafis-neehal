@@ -20,9 +20,9 @@ I am an accomplished Ph.D. candidate in the Computer Science Department at Renss
 [![](https://visitcount.itsvg.in/api?id=nafis-neehal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nafisneehal@iut-dhaka.edu) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nafisneehal) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Created with: https://github-profile-maker.vercel.app/ 
   
 
 
