@@ -1,5 +1,8 @@
-### Hi there, I'm Nafis. 👋
+### Hi, I'm Nafis Neehal. 👋
+---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nafis-neehal&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 <!--
 **nafis-neehal/nafis-neehal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
