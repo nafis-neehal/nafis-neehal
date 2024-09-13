@@ -1,5 +1,12 @@
-## [Nafis Neehal](https://nafis-neehal.github.io/)
----
+## 🏠 [Nafis Neehal](https://nafis-neehal.github.io/)
+
+🏢 Currently working as a Graduate Researcher in [IDEA Labs](https://idea.rpi.edu/)
+📚 Research Interest: Large Language Models, GenAI, Applied ML/DL, AI for Healthcare
+📧 Actively looking for research collaborations in LLM / GenAI | Email Me: neehan[at]rpi[dot]edu
+🖥️ Current (FUN) Projects: 
+  - ChanBot (Developing a Chatbot who responds like Chandler - a popular TV Character from FRIENDS) [Chanbot](https://huggingface.co/nafisneehal/chandler_bot)
+  - Mama (Bengali-speaking LLM Agent with Reasoning Capabilities, currently private) [Mama] (https://github.com/nafis-neehal/Mojnu-Bengali-GPT) 
+💡 Hobbies: Human History, Leetcode, International Politics, Spy Novels, Poker
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafisneehal) 
