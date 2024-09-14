@@ -2,7 +2,7 @@
 
 🏢 Currently working as a Graduate Researcher in [IDEA Labs](https://idea.rpi.edu/) at RPI. Leading a team of 7 research collaborators from IBM and RPI. <br>
 📚 Research Interest: Large Language Models (Fine-Tuning, Benchmarking, Dataset Creation, RAG, LLM as a Judge, Human-in-the-loop evaluation, ReAct Agents, RLHF), GenAI, Applied ML/DL, AI for Healthcare <br>
-📧 Actively looking for research collaborations in LLM / GenAI | Email Me: neehan[at]rpi[dot]edu <br>
+📧 Actively looking for research collaborations in LLM / NLP / AI in Healthcare. Email Me: neehan[at]rpi[dot]edu <br>
 💡 Hobbies: Human History, Leetcode, International Politics, Spy Novels, Poker <br>
 🖥️ Current (FUN) Projects: 
 - ChanBot (Developing a Chatbot who responds like Chandler - a popular TV Character from FRIENDS) - [Chanbot](https://huggingface.co/nafisneehal/chandler_bot) <br>
