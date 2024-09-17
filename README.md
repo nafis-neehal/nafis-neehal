@@ -6,7 +6,7 @@
 💡 Hobbies: Human History, [LeetCode](https://leetcode.com/u/nafisneehal/), International Politics, Spy Novels, Classic International Movies, Poker <br>
 🖥️ Current (FUN) Projects: 
 - ChanBot (Developing a Chatbot who responds like Chandler - a popular TV Character from FRIENDS) - [Chanbot](https://huggingface.co/nafisneehal/chandler_bot) <br>
-- Mama (Bengali-speaking LLM Agent with Reasoning Capabilities, currently private) - [Mama](https://github.com/nafis-neehal/Mojnu-Bengali-GPT) <br>
+- Mama (Bengali-speaking LLM Agent with Reasoning Capabilities) - [Mama](https://github.com/nafis-neehal/Mojnu-Bengali-GPT) <br>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafisneehal) 
