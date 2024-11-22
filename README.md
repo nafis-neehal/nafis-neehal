@@ -7,7 +7,7 @@
 🖥️ Current (FUN) Projects: 
 - ChanBot (Developing a Chatbot who responds like Chandler - a popular TV Character from FRIENDS) - [Demo](https://huggingface.co/spaces/nafisneehal/chanbot) <br>
 - Mama (GPT-4 powered Bengali Voicebot integrating real-time STT/TTS and bidirectional translation) - [Mama](https://github.com/nafis-neehal/Mojnu-Bengali-GPT) <br>
-- Trade-Mind (End-to-end MLOps pipeline for Bitcoin price prediction using Hopsworks (real-time feature engineering, model registry/serving), and GitHub Actions (CI/CD) for data update and model retraining) [Demo](https://huggingface.co/spaces/nafisneehal/trade-mind)
+- Trade-Mind (End-to-end MLOps pipeline for Bitcoin price prediction using Hopsworks (real-time feature engineering, model registry/serving), and GitHub Actions (CI/CD) for data update and model retraining) - [Demo](https://huggingface.co/spaces/nafisneehal/trade-mind)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafisneehal) 
